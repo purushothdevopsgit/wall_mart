@@ -1,0 +1,4 @@
+Git is a Distributed Version Control System
+It is a Source code management tool
+It is a open source tool
+It is a host for Github, gitlab, bitbucket
